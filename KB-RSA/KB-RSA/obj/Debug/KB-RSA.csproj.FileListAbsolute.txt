@@ -1,0 +1,5 @@
+C:\Users\kadir\source\repos\KB-RSA\KB-RSA\bin\Debug\KB-RSA.dll
+C:\Users\kadir\source\repos\KB-RSA\KB-RSA\bin\Debug\KB-RSA.pdb
+C:\Users\kadir\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.dll
+C:\Users\kadir\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.pdb
