@@ -34,7 +34,7 @@ public RSAParameters privateKey { get; set; }
    
 # GenerateKey
 ```csharp
-public static class GenerateKey
+public static class GenerateKey {...}
 ```
 > key generation processes
 
@@ -101,7 +101,7 @@ private static string DirectoryControl()
    
 # Encrypt
 ```csharp
-public static class Encrypt
+public static class Encrypt {...}
 ```
 - Encrypts the data with the key of type RSAParameters sent
 ```csharp
@@ -152,7 +152,7 @@ private static UnicodeEncoding byteConverter = new UnicodeEncoding();
    
 # Decrypt
 ```csharp
-public static class Decrypt
+public static class Decrypt {...}
 ```
 - Decrypts the data with the key of type RSAParameters sent
 ```csharp
