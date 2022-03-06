@@ -90,11 +90,23 @@ private static string DirectoryControl()
     string publicKeyPath = $@"{filePath}\public.key";
     bool pubicKeyCheck = File.Exists(publicKeyPath);
     if (pubicKeyCheck == false)
-        File.Create(publicKeyPath);
+    {
+        using (FileStream fs = File.Create(publicKeyPath))
+        {
+            fs.Dispose();
+            fs.Close();
+        }
+    }
     string privateKeyPath = $@"{filePath}\private.key";
     bool privateKeyCheck = File.Exists(privateKeyPath);
     if (privateKeyCheck == false)
-        File.Create(privateKeyPath);
+    {
+        using (FileStream fs = File.Create(privateKeyPath))
+        {
+            fs.Dispose();
+            fs.Close();
+        }
+    }
     return filePath;
 }
 ```
