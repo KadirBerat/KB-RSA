@@ -2,16 +2,21 @@
 <package >
 	<metadata>
 		<id>KB-RSA</id>
-		<version>1.0.1</version>
+		<version>1.0.3</version>
 		<title>KB RSA</title>
 		<authors>Kadir Berat Guventurk</authors>
+		<owners>Kadir Berat Guventurk</owners>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<license type="expression">MIT</license>
 		<!-- <icon>icon.png</icon> -->
-		<projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+		<projectUrl>https://github.com/KadirBerat/KB-RSA.git</projectUrl>
+		<readme>README.md</readme>
 		<description>A classlibrary project released as nuget that makes it easy to use for key generation, encryption, and decryption with RSA.</description>
-		<releaseNotes>Bug fixes.</releaseNotes>
+		<releaseNotes>Fixed error when generating xml key.</releaseNotes>
 		<copyright>Copyright 2022 kadirguventurk</copyright>
 		<tags>RSA</tags>
 	</metadata>
+	<files>
+		<file src="README.md" target="" />
+	</files>
 </package>
