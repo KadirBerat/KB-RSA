@@ -4,3 +4,9 @@ C:\Users\kadir\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.csproj.CoreCompileInp
 C:\Users\kadir\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.dll
 C:\Users\kadir\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.pdb
 C:\Users\kadir\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.csproj.AssemblyReference.cache
+D:\source\repos\KB-RSA\KB-RSA\bin\Debug\KB-RSA.dll
+D:\source\repos\KB-RSA\KB-RSA\bin\Debug\KB-RSA.pdb
+D:\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.csproj.AssemblyReference.cache
+D:\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.csproj.CoreCompileInputs.cache
+D:\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.dll
+D:\source\repos\KB-RSA\KB-RSA\obj\Debug\KB-RSA.pdb

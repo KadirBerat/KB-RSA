@@ -70,7 +70,7 @@ public static bool RSAGenerateXMLKey(KeySize keySize)
         publicKeyWriter.Close();
         string privateKey = csp.ToXmlString(true);
         TextWriter privateKeyWriter = new StreamWriter(privateKeyPath);
-        privateKeyWriter.WriteLine(publicKey);
+        privateKeyWriter.WriteLine(privateKey);
         privateKeyWriter.Dispose();
         privateKeyWriter.Close();
         }
